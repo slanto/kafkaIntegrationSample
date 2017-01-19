@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KafkaIntegrationSample", "K
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KafkaIntegrationSample.Consumer", "KafkaIntegrationSample.Consumer\KafkaIntegrationSample.Consumer.csproj", "{FE18F46D-3C22-4AAC-AE58-E4F50B12A350}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KafkaIntegrationSample.ProducerService", "KafkaIntegrationSample.ProducerService\KafkaIntegrationSample.ProducerService.csproj", "{703E10B9-7DB6-4D41-AC1B-AF0C50D1F0FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{FE18F46D-3C22-4AAC-AE58-E4F50B12A350}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE18F46D-3C22-4AAC-AE58-E4F50B12A350}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE18F46D-3C22-4AAC-AE58-E4F50B12A350}.Release|Any CPU.Build.0 = Release|Any CPU
+		{703E10B9-7DB6-4D41-AC1B-AF0C50D1F0FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{703E10B9-7DB6-4D41-AC1B-AF0C50D1F0FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{703E10B9-7DB6-4D41-AC1B-AF0C50D1F0FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{703E10B9-7DB6-4D41-AC1B-AF0C50D1F0FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
